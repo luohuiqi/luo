@@ -1,0 +1,89 @@
+{
+  "checkedAt": "2026-09-08",
+  "source": "https://www.processon.com/u/58097116e4b03c844a47fe06",
+  "userId": "58097116e4b03c844a47fe06",
+  "author": "luohuiqi",
+  "role": "产品部经理",
+  "elementsCount": 7,
+  "enterpriseTemplateSet": null,
+  "businessTemplateSet": "processon-public-swimlanes-2018",
+  "templates": [
+    {
+      "chartId": "58312780e4b0645c0eccf0c8",
+      "title": "在线课程",
+      "url": "https://www.processon.com/view/58312780e4b0645c0eccf0c8",
+      "category": "swimlane",
+      "publishTime": "2018-06-14 11:50:08",
+      "viewCount": 1449,
+      "cloneCount": 80,
+      "publicClone": true,
+      "severity": ["naming-inconsistent", "exam-boundary-overlap", "node-text-too-long"]
+    },
+    {
+      "chartId": "58315196e4b0645c0ece5901",
+      "title": "考试流程图",
+      "url": "https://www.processon.com/view/58315196e4b0645c0ece5901",
+      "category": "swimlane",
+      "publishTime": "2018-06-14 14:11:52",
+      "viewCount": 1093,
+      "cloneCount": 62,
+      "publicClone": true,
+      "severity": ["duplicates-mobile-exam", "draft-title-leaked"]
+    },
+    {
+      "chartId": "58317300e4b06bc83a30c90b",
+      "title": "直播课程",
+      "url": "https://www.processon.com/view/58317300e4b06bc83a30c90b",
+      "category": "swimlane",
+      "publishTime": "2018-06-14 14:11:16",
+      "viewCount": 880,
+      "cloneCount": 41,
+      "publicClone": true,
+      "severity": ["typo-查案直播表", "exam-boundary-overlap", "state-mixed-with-steps"]
+    },
+    {
+      "chartId": "5878fae1e4b03fea11812b74",
+      "title": "移动考试流程图",
+      "url": "https://www.processon.com/view/5878fae1e4b03fea11812b74",
+      "category": "swimlane",
+      "publishTime": "2018-06-14 14:12:04",
+      "viewCount": 845,
+      "cloneCount": 2,
+      "publicClone": true,
+      "severity": ["duplicates-pc-exam", "low-reuse"]
+    },
+    {
+      "chartId": "58314a63e4b06bc83a2ee2f8",
+      "title": "学习推送",
+      "url": "https://www.processon.com/view/58314a63e4b06bc83a2ee2f8",
+      "category": "swimlane",
+      "publishTime": "2018-06-14 14:10:34",
+      "viewCount": 746,
+      "cloneCount": 2,
+      "publicClone": true,
+      "severity": ["rule-text-as-nodes", "overlaps-course-required-elective"]
+    },
+    {
+      "chartId": "585e2c20e4b03a03b1adc5e8",
+      "title": "学习专题",
+      "url": "https://www.processon.com/view/585e2c20e4b03a03b1adc5e8",
+      "category": "swimlane",
+      "publishTime": "2018-06-14 14:11:00",
+      "viewCount": 540,
+      "cloneCount": 2,
+      "publicClone": true,
+      "severity": ["duplicate-template-nodes", "exam-boundary-overlap"]
+    },
+    {
+      "chartId": "5834fe84e4b086d1e7948b15",
+      "title": "培训管理基本流程图",
+      "url": "https://www.processon.com/view/5834fe84e4b086d1e7948b15",
+      "category": "swimlane",
+      "publishTime": "2018-06-14 14:11:39",
+      "viewCount": 524,
+      "cloneCount": 0,
+      "publicClone": false,
+      "severity": ["clone-disabled", "typo-没取消", "unclear-前端参与"]
+    }
+  ]
+}
